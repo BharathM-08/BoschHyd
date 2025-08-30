@@ -8,5 +8,6 @@ for i in range(1,k):
         maxi = int(sys.argv[i])
     if(mini>int(sys.argv[i])):
         mini = int(sys.argv[i])
+print(sys.argv)
 print(maxi)
 print(mini)
